@@ -17,7 +17,7 @@ function jsonp(url) {
     document.body.appendChild(script);
   });
 }
-new
+
 
 /**
  * Makes a request to Etsy's API and returns a promise with JSON Data
